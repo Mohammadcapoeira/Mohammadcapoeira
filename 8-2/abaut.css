@@ -1,0 +1,12 @@
+.box1 { 
+    width: 260px;
+    height: 260px;
+    background-color:rgb(240, 174, 9);
+    border-radius: 100%;
+    border: 20px dashed rgb(148, 107, 4);
+    box-shadow: 0 0 20px 20px;
+} 
+h1{
+    color: brown;
+    margin: 100px;
+}
